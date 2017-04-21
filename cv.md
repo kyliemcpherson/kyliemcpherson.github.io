@@ -3,12 +3,12 @@ layout: page
 title: CV
 ---
 
-## Anew Guy
+## Kylie McPherson
 - http://yourwebsite.com
-- 123 Fake Street
-- Portland,  OR 97213
-- 555-555-5555
-- your.email@address.com
+- 3415 SW 11th Ave. Apt. 5
+- Portland,  OR 97239
+- (541) 399 - 3357
+- kyliemcpherson3@gmail.com
 
 ### Personal summary
 
