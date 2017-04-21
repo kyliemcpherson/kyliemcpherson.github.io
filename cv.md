@@ -6,7 +6,7 @@ title: CV
 ## Anew Guy
 - http://yourwebsite.com
 - 123 Fake Street
-- Portland, OR 97213
+- Portland,  OR 97213
 - 555-555-5555
 - your.email@address.com
 
