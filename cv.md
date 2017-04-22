@@ -4,7 +4,6 @@ title: CV
 ---
 
 ## Kylie McPherson
-- http://yourwebsite.com
 - 3415 SW 11th Ave. Apt. 5
 - Portland,  OR 97239
 - (541) 399 - 3357
@@ -16,20 +15,17 @@ title: CV
 
 ### Education
 
-- M.A.     Subject (grade), University name and location
-- B.A.     Subject (grade), University name and location
-- A Level  Subject (grade), University name and location
+- PhD    Neuroscience, Oregon Health & Science University, Portland, OR (2016 - Present)
+- BA     Biochemistry, Occidental College, Los Angeles, CA (2009 - 2013)
 
-### Technical
-
-- Intermediate: HTML, Python, etc, etc
-- Basic: CSS, Stata, etc, etc
 
 ### Employment
 
-- 2015: Job title, Company
-
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Graduate School Rotation, Oregon Health & Science University – Tianyi Mao’s Lab, Portland, OR                        01/2017 – 04/2017
+  
+•	Characterization of intrinsic properties of the cells within the mouse insular cortex (primarily the agranular region) using whole-cell patch clamp experiments. 
+•	Morphological assessment of the same cells filled with biocytin. 
+•	MATLAB script writing for electrophysiology data analysis
 
 - 2012: Job title, Company
 
